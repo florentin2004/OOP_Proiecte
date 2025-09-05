@@ -1,0 +1,14 @@
+﻿  Echipa.cpp
+D:\MTA\OOP_Proiecte\Baschet\Echipa.cpp(6,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\MTA\OOP_Proiecte\Baschet\Echipa.cpp(17,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Eroare.cpp
+  EroareEchipa.cpp
+  Extrema.cpp
+  FactoryJucator.cpp
+  Fundas.cpp
+  Jucator.cpp
+  Simulator.cpp
+  ZJustPlaying.cpp
+D:\MTA\OOP_Proiecte\Baschet\ZJustPlaying.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  JustPlaying.vcxproj -> D:\MTA\OOP_Proiecte\Baschet\x64\Debug\JustPlaying.exe
