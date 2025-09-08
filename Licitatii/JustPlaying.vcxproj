@@ -22,6 +22,7 @@
     <ClCompile Include="Bijuterie.cpp" />
     <ClCompile Include="CartiRare.cpp" />
     <ClCompile Include="CasaLicitatii.cpp" />
+    <ClCompile Include="Depozit.cpp" />
     <ClCompile Include="Exceptie.cpp" />
     <ClCompile Include="Factory_Obiect.cpp" />
     <ClCompile Include="IObiect.cpp" />
@@ -36,6 +37,7 @@
     <ClInclude Include="Bijuterie.h" />
     <ClInclude Include="CartiRare.h" />
     <ClInclude Include="CasaLicitatii.h" />
+    <ClInclude Include="Depozit.h" />
     <ClInclude Include="Exceptie.h" />
     <ClInclude Include="Factory_Obiect.h" />
     <ClInclude Include="IObiect.h" />

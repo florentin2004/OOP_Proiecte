@@ -47,6 +47,9 @@
     <ClCompile Include="Exceptie.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Depozit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="IObiect.h">
@@ -80,6 +83,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Exceptie.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Depozit.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
