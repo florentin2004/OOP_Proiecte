@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bijuterie" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAiAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Bijuterie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IObiect" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAACAACAAAAAAAAAQAAAAAAAUAI=</HashCode>
+      <FileName>IObiect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasinaEpoca" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAACAAAAAAAAAAAAAAAAAAAAAAAKAAI=</HashCode>
+      <FileName>MasinaEpoca.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Obiect" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAoAIgAAACAAAAAAAAQAAAQAAAAAAAUgI=</HashCode>
+      <FileName>Obiect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CartiRare" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAFAAAEAIAAI=</HashCode>
+      <FileName>CartiRare.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Factory_Obiect" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Factory_Obiect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CasaLicitatii" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAIAAAAAAAAEAAAAAQAAASAAAAAAhAAAAAAA=</HashCode>
+      <FileName>CasaLicitatii.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Timp" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACACKAQIIAAAAAAAACCAAAAAAAAgIAAAAAA=</HashCode>
+      <FileName>Timp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Persoana" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAgAAAgAAAUAAAAAAAAEAAAEEAAAAEAAAIgAAAE=</HashCode>
+      <FileName>Persoana.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SesiuneLicitatie" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAGAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>SesiuneLicitatie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exceptie" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
